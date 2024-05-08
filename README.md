@@ -1,6 +1,17 @@
-### Hi there 👋
+## Hi 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakaryaghanai)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/zakaryaghanai/zakarya-ghanai-github-readme-stats">
+  <img align="center" src="https://zakarya-ghanai-github-readme-stats.vercel.app/api?username=zakaryaghanai&repo=zakarya-ghanai-github-readme-stats&show_icons=true" />
+</a>
+
+<br/>
+<br/>
+
+<!-- Top Langs -->
+<a href="https://github.com/zakaryaghanai/zakarya-ghanai-github-readme-stats">
+  <img align="center" src="https://zakarya-ghanai-github-readme-stats.vercel.app/api/top-langs/?username=zakaryaghanai&show_icons=true&layout=donut" />
+</a>
+
 <!--
 **zakaryaghanai/zakaryaghanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
