@@ -1,6 +1,6 @@
 ## Hi 👋
 
-<a href="https://github.com/zakaryaghanai/zakarya-ghanai-github-readme-stats">
+<a href="https://github.com/zakaryaghanai">
   <img align="center" src="https://zakarya-ghanai-github-readme-stats.vercel.app/api?username=zakaryaghanai&repo=zakarya-ghanai-github-readme-stats&show_icons=true" />
 </a>
 
@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Top Langs -->
-<a href="https://github.com/zakaryaghanai/zakarya-ghanai-github-readme-stats">
+<a href="https://github.com/zakaryaghanai">
   <img align="center" src="https://zakarya-ghanai-github-readme-stats.vercel.app/api/top-langs/?username=zakaryaghanai&show_icons=true&layout=donut" />
 </a>
 
