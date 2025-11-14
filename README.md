@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect!
 
 - **Email**: zakariyaghanai@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/zakaryaghanai/
+- **LinkedIn**: https://www.linkedin.com/in/zakarya-ghanai/
 
 ---
 
